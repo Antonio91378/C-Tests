@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LwPkWI+VfU7FOBgyE5qCDI4PyjFhj96jk9j3acDG1mojpMB0x5jq8jVsJ/nq1BoEvlKTYgv4CjFV4RhWIjGR4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antonio.dias\\source\\repos\\Sparky\\Sparky\\Sparky.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

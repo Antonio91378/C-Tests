@@ -1,0 +1,11 @@
+C:\Users\antonio.dias\source\repos\Sparky\Sparky\bin\Debug\net7.0\Sparky.deps.json
+C:\Users\antonio.dias\source\repos\Sparky\Sparky\bin\Debug\net7.0\Sparky.dll
+C:\Users\antonio.dias\source\repos\Sparky\Sparky\bin\Debug\net7.0\Sparky.pdb
+C:\Users\antonio.dias\source\repos\Sparky\Sparky\obj\Debug\net7.0\Sparky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.dias\source\repos\Sparky\Sparky\obj\Debug\net7.0\Sparky.AssemblyInfoInputs.cache
+C:\Users\antonio.dias\source\repos\Sparky\Sparky\obj\Debug\net7.0\Sparky.AssemblyInfo.cs
+C:\Users\antonio.dias\source\repos\Sparky\Sparky\obj\Debug\net7.0\Sparky.csproj.CoreCompileInputs.cache
+C:\Users\antonio.dias\source\repos\Sparky\Sparky\obj\Debug\net7.0\Sparky.dll
+C:\Users\antonio.dias\source\repos\Sparky\Sparky\obj\Debug\net7.0\refint\Sparky.dll
+C:\Users\antonio.dias\source\repos\Sparky\Sparky\obj\Debug\net7.0\Sparky.pdb
+C:\Users\antonio.dias\source\repos\Sparky\Sparky\obj\Debug\net7.0\ref\Sparky.dll
