@@ -100,3 +100,4 @@ C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\refint\S
 C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\SparkyMSTest.pdb
 C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\SparkyMSTest.genruntimeconfig.cache
 C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\ref\SparkyMSTest.dll
+C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\SparkyMSTest.sourcelink.json

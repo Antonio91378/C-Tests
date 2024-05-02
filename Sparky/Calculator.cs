@@ -11,5 +11,10 @@
         {
             return a % 2 != 0;
         }
+
+        public double AddNumbersDouble(double a, double b)
+        {
+            return a + b;
+        }
     }
 }

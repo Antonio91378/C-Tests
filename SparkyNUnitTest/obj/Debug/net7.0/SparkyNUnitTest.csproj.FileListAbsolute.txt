@@ -100,3 +100,4 @@ C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\refin
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\SparkyNUnitTest.pdb
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\SparkyNUnitTest.genruntimeconfig.cache
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\ref\SparkyNUnitTest.dll
+C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\SparkyNUnitTest.sourcelink.json

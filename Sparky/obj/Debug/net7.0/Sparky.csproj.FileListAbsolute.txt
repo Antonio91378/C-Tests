@@ -9,3 +9,4 @@ C:\Users\antonio.dias\source\repos\Sparky\Sparky\obj\Debug\net7.0\Sparky.dll
 C:\Users\antonio.dias\source\repos\Sparky\Sparky\obj\Debug\net7.0\refint\Sparky.dll
 C:\Users\antonio.dias\source\repos\Sparky\Sparky\obj\Debug\net7.0\Sparky.pdb
 C:\Users\antonio.dias\source\repos\Sparky\Sparky\obj\Debug\net7.0\ref\Sparky.dll
+C:\Users\antonio.dias\source\repos\Sparky\Sparky\obj\Debug\net7.0\Sparky.sourcelink.json
