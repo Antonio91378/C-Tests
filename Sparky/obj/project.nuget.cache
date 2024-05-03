@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LwPkWI+VfU7FOBgyE5qCDI4PyjFhj96jk9j3acDG1mojpMB0x5jq8jVsJ/nq1BoEvlKTYgv4CjFV4RhWIjGR4g==",
+  "dgSpecHash": "7cJza/a+gHaEZyPaxoXvNZL0bLk2ltT07v/U9sawB+n7evvcTlnSBz6Q9rHUGM6xh4lNTNrrjjoHC1xIPxZBlA==",
   "success": true,
   "projectFilePath": "C:\\Users\\antonio.dias\\source\\repos\\Sparky\\Sparky\\Sparky.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.1\\microsoft.identitymodel.abstractions.7.5.1.nupkg.sha512",
+    "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.1\\microsoft.identitymodel.logging.7.5.1.nupkg.sha512",
+    "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.1\\microsoft.identitymodel.tokens.7.5.1.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"

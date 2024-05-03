@@ -101,3 +101,6 @@ C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\Spark
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\SparkyNUnitTest.genruntimeconfig.cache
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\ref\SparkyNUnitTest.dll
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\SparkyNUnitTest.sourcelink.json
+C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll

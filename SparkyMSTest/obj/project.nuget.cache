@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "5WwMmwkHQexP7frc8NfnIdrn/Kg9btRJF7/GoouMjsa/Aq//vMCFPKD3FCT5YbW+dgvfsUkRDfG+perJsPnoqA==",
+  "dgSpecHash": "dBtEDuVPqj+6VzP1vKmwmCN+MiFBMnKydUNlAr10OOK4ArR6s3bFOBH3YiTI11/WzY19dJPyUeG6IMTZsAf6TA==",
   "success": true,
   "projectFilePath": "C:\\Users\\antonio.dias\\source\\repos\\Sparky\\SparkyMSTest\\SparkyMSTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antonio.dias\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.1\\microsoft.identitymodel.abstractions.7.5.1.nupkg.sha512",
+    "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.1\\microsoft.identitymodel.logging.7.5.1.nupkg.sha512",
+    "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.1\\microsoft.identitymodel.tokens.7.5.1.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\antonio.dias\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
