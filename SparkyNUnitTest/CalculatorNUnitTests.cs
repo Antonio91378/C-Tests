@@ -4,15 +4,23 @@ namespace SparkyNUnitTest
 {
     [TestFixture]
     public class CalculatorNUnitTests
-    { 
+    {
+        private Calculator _calculator;
+
+        [SetUp]
+        public void SetUp()
+        {
+            _calculator = new Calculator();
+        }
+
+
         [Test]
         public void AddNumbers_InputTwoInt_GetCorrectAddition()
         {
             //Arrange
-            Calculator calc = new();
 
             //Act
-            int result = calc.AddNumbers(10, 20);
+            int result = _calculator.AddNumbers(10, 20);
 
             //Assert
             Assert.That(result, Is.EqualTo(30));
@@ -23,11 +31,10 @@ namespace SparkyNUnitTest
         public void OddChecker_InputNumber_GetBooleanVerification()
         {
             //Arrange
-            Calculator calc = new();
 
             //Act
-            bool trueOddNumber = calc.IsOddNumber(1);
-            bool falseOddNumber = calc.IsOddNumber(2);
+            bool trueOddNumber = _calculator.IsOddNumber(1);
+            bool falseOddNumber = _calculator.IsOddNumber(2);
 
             //Assert
             Assert.IsTrue(trueOddNumber);
@@ -40,10 +47,9 @@ namespace SparkyNUnitTest
         public bool OddChecker_InputNumber_GetBooleanVerification2(int a)
         {
             //Arrange
-            Calculator calc = new();
 
             //Act
-            bool isOddNumber = calc.IsOddNumber(a);
+            bool isOddNumber = _calculator.IsOddNumber(a);
 
             //Assert
             return isOddNumber;
@@ -56,14 +62,30 @@ namespace SparkyNUnitTest
         public void AddNumbersDouble_InputTwoDouble_GetCorrectAddition(double a, double b)
         {
             //Arrange
-            Calculator calc = new();
 
             //Act
-            double result = calc.AddNumbersDouble(a, b);
+            double result = _calculator.AddNumbersDouble(a, b);
 
             //Assert
             Assert.AreEqual(15.9, result,1);
 
+        }
+
+        [Test]
+        public void OddRanger_InputMinAndMaxRange_RetunsOddNumbersInsideRange()
+        {
+            List<int> expectedOddRange = new() { 5, 7, 9 }; //5-10
+
+            List<int> result = _calculator.GetOddRange(5, 10);
+
+            Assert.That(result, Is.EquivalentTo(expectedOddRange));
+            Assert.Contains(7, result);
+            Assert.That(result, Does.Contain(7));
+            Assert.That(result, Is.Not.Empty);
+            Assert.That(result.Count, Is.EqualTo(3));
+            Assert.That(result, Has.No.Member(6));
+            Assert.That(result, Is.Ordered.Ascending);
+            Assert.That(result, Is.Unique);
         }
 
     }
