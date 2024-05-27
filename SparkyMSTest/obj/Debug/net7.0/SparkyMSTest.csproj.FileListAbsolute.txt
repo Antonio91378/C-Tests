@@ -94,7 +94,6 @@ C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\SparkyMS
 C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\SparkyMSTest.AssemblyInfoInputs.cache
 C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\SparkyMSTest.AssemblyInfo.cs
 C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\SparkyMSTest.csproj.CoreCompileInputs.cache
-C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\SparkyMSTest.csproj.CopyComplete
 C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\SparkyMSTest.dll
 C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\refint\SparkyMSTest.dll
 C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\SparkyMSTest.pdb
@@ -104,3 +103,4 @@ C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\SparkyMS
 C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\antonio.dias\source\repos\Sparky\SparkyMSTest\obj\Debug\net7.0\SparkyMSTest.csproj.CopyComplete

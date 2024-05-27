@@ -94,7 +94,6 @@ C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\Spark
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\SparkyNUnitTest.AssemblyInfoInputs.cache
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\SparkyNUnitTest.AssemblyInfo.cs
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\SparkyNUnitTest.csproj.CoreCompileInputs.cache
-C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\SparkyNUnitTest.csproj.CopyComplete
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\SparkyNUnitTest.dll
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\refint\SparkyNUnitTest.dll
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\SparkyNUnitTest.pdb
@@ -104,3 +103,9 @@ C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\Spark
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\bin\Debug\net7.0\Moq.dll
+C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\antonio.dias\source\repos\Sparky\SparkyNUnitTest\obj\Debug\net7.0\SparkyNUnitTest.csproj.CopyComplete
